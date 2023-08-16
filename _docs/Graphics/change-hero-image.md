@@ -31,7 +31,7 @@ Open _assets/css/frtib/other.scss
 
 Scroll to find .usa-hero
 
-Edit background-image: asset_url("hero/PASTE HERO IMAGE NAME HERE");
+Edit background-image: {{site.baseurl}}/assets/("hero/PASTE HERO IMAGE NAME HERE");
 
 Save other.scss
 

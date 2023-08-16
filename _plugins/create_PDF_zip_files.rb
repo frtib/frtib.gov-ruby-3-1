@@ -1,3 +1,4 @@
+require 'rubygems'
 require 'zip'
 require 'open-uri'
 

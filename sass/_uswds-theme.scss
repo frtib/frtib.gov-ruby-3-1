@@ -17,5 +17,5 @@ in the form $setting: value,
 //  $theme-image-path: "img",
 //  $theme-show-notifications: false,
 //  $theme-font-path: "fonts",
-//  $theme-hero-image: asset_url("hero/HomeHero_L.jpg"),
+//  $theme-hero-image: {{site.baseurl}}/assets/("hero/HomeHero_L.jpg"),
 //);
